@@ -1,0 +1,21 @@
+.container-full{
+    display: flex;
+    border-radius: 5px;
+    background-color: white;
+    /* margin   : 10px; */
+}
+h2{
+    text-align: center;
+    color: #047bf1d5;
+    font-weight: 900;
+}
+.paper-regi{
+    width: 500px;
+    /* padding: 20px; */
+}
+.img{
+    height: 700px;
+}
+p{
+    float: left;
+}
